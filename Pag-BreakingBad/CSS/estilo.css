@@ -1,0 +1,161 @@
+@font-face{
+    font-family:"Breaking Bad";
+    src: url("../font/Breaking Bad.ttf");
+    font-style: normal;
+    font-weight: normal;
+    color:white; 
+}
+
+body{
+    background-image: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    text-align: center;
+    margin: auto;
+
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+}
+
+.poster{
+    width: 700px;
+    height: 300px;
+    border: 10px outset brown;
+    border-radius: 22px;
+}
+
+.formulario{
+    font-family: Helvetica, sans-serif;
+    text-align: left;
+}
+
+h1{
+    color: bisque;
+}
+
+legend{
+    color: bisque;
+}
+
+.fondo{
+    background: local;
+    background-color: #0c3e11 ;
+    font-family: Helvetica, sans-serif;
+}
+
+.logotabla{
+    width: 1200px;
+    height: 500px;
+}
+
+.texto{
+    font-family:"Breaking Bad"; 
+    src: url(/font/Breaking_Bad.ttf);
+    font-size: 34px;
+    color:white;
+    text-align: center;
+}
+
+table{
+    background-color: #2B2C24;
+    margin-bottom: 15px;
+    font-family: Helvetica;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr{
+    border: 5px solid #2B2C24;
+    width: 200px;
+    height: 100px;
+}
+td{
+    border: 5px solid #2B2C24;
+    width: 150px;
+    height: 130px;
+}
+
+.tabla1{
+    background-color: #2B2C24;
+    text-align: center;
+    border: 5px solid #2B2C24;
+    font-family: Helvetica;
+    text-align: center;
+}
+.tabla2{
+    background-color: #2B2C24;
+    border: 8px solid #2B2C24;
+    text-align: center;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+.img1{
+    width: 100px;
+    height: 120px;
+}
+
+.Ha{
+    width: 140px;
+    height: 250px;
+}
+.tamaño1{
+    font-size: 34px;
+    font-family: Helvetica;
+}
+
+.tamaño2{
+    font-size: 15px;
+    font-family: Helvetica;
+}
+
+.celda1{
+    background-color: #2B2C24;
+}
+
+.celda2{
+    background-color: #B3DA29;
+}
+
+.celda3{
+    background-color: #828E4E;
+}
+
+.celda4{
+    background-color: #C4E04D;
+}
+
+.celda5{
+    background-color: #BCC49B;
+}
+
+.celda6{
+    background-color: #EFF6CD;
+}
+
+.celda7{
+    background-color: #89A419;
+}
+
+.celda8{
+    background-color: #637126;
+}
+
+.celda9{
+    background-color: #AB8FCC;
+}
+
+.celda10{
+    background-color: #D3E778;
+}
+
+.celda11{
+    background-color: #C1C52A;
+}
